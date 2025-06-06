@@ -8,20 +8,15 @@ React Frontend Developer | Software Engineering Student
 🏆 **Meta-Certified Frontend Developer | McKinsey Forward Graduate**  
 🎤 **Google Developer Groups Cairo Organizer** (1000+ developers)
 
-Crafting digital experiences where speed meets beauty—because users deserve both. I'm a Meta-Certified Front-End Developer who thrives on solving real-world challenges through code. My passion? Building interfaces that aren't just functional but feel effortless, with consistently achieving **95+ Lighthouse performance scores**.
+Crafting digital experiences where speed meets beauty—because users deserve both. 
+I'm a Meta-Certified Front-End Developer who thrives on solving real-world challenges through code.
+My passion? Building interfaces that aren't just functional but feel effortless.
 
-### 🌟 **Achievements & Impact**
-- ✅ **40% user engagement increase** through optimized UI/UX
-- ✅ **25% bounce rate reduction** via performance optimization  
-- ✅ **95+ Lighthouse scores** consistently across all projects
-- ✅ **International client delivery** (Malaysian nonprofit project)
-- ✅ **McKinsey Forward Graduate** (Top 10% of 5,000+ global participants)
 
 *   🌍  I'm based in Cairo, open to remote work opportunities worldwide
 *   🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/saadi-shamallakh/)
 *   ✉️  You can contact me at [saadi.dev.ps@gmail.com](mailto:saadi.dev.ps@gmail.com)
 *   🚀  I'm currently working on [Full-Stack E-Commerce Platform (Amazon Clone)](https://github.com/XSaadiX/amazon-clone) using React+TypeScript+Firebase+Stripe
-*   🧠  I'm learning **Full-Stack Development** & **AI Automation Tools**
 *   🤝  I'm open to collaborating on **High-Performance Web Applications**
 *   🎯  **Goal**: Contributing to European tech market through innovative solutions
 *   ⚡  **Fun fact**: I organize tech events for 1000+ developers while maintaining 95+ performance scores!
@@ -112,16 +107,21 @@ Crafting digital experiences where speed meets beauty—because users deserve bo
 
 ### 📊 **GitHub Analytics**
 
-<b>My GitHub Stats</b>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=XSaadiX&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XSaadiX&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" height="165">
+</p>
 
-<a href="http://www.github.com/XSaadiX"><img src="https://github-readme-stats.vercel.app/api?username=XSaadiX&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="XSaadiX's GitHub stats" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XSaadiX&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" alt="Top Languages" height="165">
+</p>
 
-<a href="http://www.github.com/XSaadiX"><img src="https://github-readme-streak-stats.herokuapp.com/?user=XSaadiX&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/XSaadiX" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XSaadiX&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XSaadiX&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph" alt="GitHub Activity Graph" width="100%">
+</p>
 
 ---
 
 ⭐ **Fun Fact**: I am Batman (and I maintain 95+ Lighthouse scores while organizing events for 1000+ developers!)
 
-💼 **Open to**: Frontend roles, Full-stack opportunities, Remote collaboration, European market opportunities
+💼 **Open to**: Frontend roles, Remote collaboration, European market opportunities
