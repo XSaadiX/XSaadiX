@@ -1,135 +1,130 @@
 <div align="center">
 
-# سعدي شملخ · Saadi Shamallakh
+# Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Saadi
+## Frontend Engineer · Next.js · Fintech & High-Performance Web
 
-**Frontend Engineer · Fintech & High-Performance Web**
+🏗️ **Frontend Engineer @ YallaMotor (Bayt.com)** — 7-country GCC automotive platform  
+🎓 **Software Engineering Student @ Ain Shams University × University of East London** (GPA 3.6)  
+🏆 **Meta-Certified Frontend Developer · McKinsey Forward Graduate (Top 10% globally)**  
+🎤 **Google Developer Groups Cairo Organizer** (1,000+ developers)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saadi--shamallakh-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/saadi-shamallakh/)
-[![GitHub](https://img.shields.io/badge/GitHub-XSaadiX-181717?style=flat&logo=github)](https://www.github.com/XSaadiX)
-[![Email](https://img.shields.io/badge/Email-saadi.dev.ps%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:saadi.dev.ps@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-YallaMotor-FF6B00?style=flat)](https://www.yallamotor.com)
+Building interfaces that are fast, accessible, and built to scale — because users and search engines deserve both.
+
+* 🌍 Based in **Cairo**, open to remote opportunities worldwide
+* 💼 Currently leading **Next.js App Router** architecture & Core Web Vitals recovery at YallaMotor
+* 🤖 Building production **AI-assisted dev workflows** with Claude Code, Cursor & Copilot
+* 🚀 Independently shipping full-stack products as developer, PM, and business lead
+* ✉️ Reach me at [saadi.dev.ps@gmail.com](mailto:saadi.dev.ps@gmail.com)
+* ⚡ Fun fact: I maintain 95+ Lighthouse scores while organizing events for 1,000+ developers!
 
 </div>
 
 ---
 
-## About
+### 🔗 Socials
 
-Frontend Engineer at **YallaMotor** (part of Bayt.com) — a leading automotive platform serving **7 countries across the GCC** in English and Arabic. I lead architectural decisions, Core Web Vitals recovery, and AI-assisted development workflows across a cross-functional engineering team.
-
-Dual-degree **Software Engineering student** at Ain Shams University × University of East London (GPA 3.6, expected 2027). Active freelancer who has shipped multiple production systems end-to-end as developer, PM, and business development lead simultaneously.
-
-- 🌍 Based in **Cairo**, open to remote worldwide
-- 🏗️ Currently building: **Next.js App Router** architecture at YallaMotor + independent fintech product
-- 🤝 Community: **GDG Cairo Organizer** · Former GDSC Co-Lead · Gaza Sky Geeks Code2Career Alum
-- 🎓 Certifications: **Meta Frontend Developer** · **McKinsey Forward** (Top 10% globally)
-
----
-
-## Stack
-
-**Core**
-`Next.js (App Router)` `React` `TypeScript` `JavaScript`
-
-**Styling**
-`Tailwind CSS` `CSS Modules` `Sass` `Material UI` `Chakra UI`
-
-**State & Data**
-`TanStack Query` `Zustand` `Redux` `React Hook Form`
-
-**Backend & Infra**
-`Supabase` `Firebase` `Laravel (integration)` `REST APIs`
-
-**Tooling & AI**
-`Claude Code` `Cursor` `GitHub Copilot` `Figma` `Git`
-
-**Languages**
-`TypeScript` `JavaScript` `Java` `C++` `Python`
+<p align="left">
+  <a href="https://www.github.com/XSaadiX" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/XSaadiX?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  </a>
+  <a href="https://www.linkedin.com/in/saadi-shamallakh/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-saadi--shamallakh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saadi.dev.ps@gmail.com">
+    <img src="https://img.shields.io/badge/Email-saadi.dev.ps%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## Work
+### 🛠️ Tech Stack
 
-| Year | Project | Role | Stack | Impact |
-|------|---------|------|-------|--------|
-| 2024–now | **YallaMotor** | Frontend Engineer | Next.js · TypeScript · Tailwind | Led App Router migration, Core Web Vitals recovery, SEO architecture across 7-country platform |
-| 2024 | **Salem Group Marketplace** | Lead Dev + PM | Next.js · Laravel | B2B/B2C platform, ~$7K engagement, full PM + BD |
-| 2024 | **Manarat Al-Marefa** | Lead Dev | Next.js · Supabase | School management system + full production data migration |
-| 2023–now | **Trading Edge** | Founder | Next.js · Supabase | Personal trading journal SaaS with playbooks, R-multiple tracking, analytics |
-| 2023 | **Al-Kasrawy Group** | Lead Dev | Next.js · Tailwind | Service center web app, end-to-end delivery |
+**Frontend Core**
+<p align="left">
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="36" height="36" alt="Next.js" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+</p>
 
----
+**Styling & UI**
+<p align="left">
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+</p>
 
-## Freelance Highlights
+**State, Data & Backend**
+<p align="left">
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+</p>
 
-- 🏗️ Architected and shipped **4+ production systems** as solo developer and PM
-- 🌐 Built **RTL/i18n-first** interfaces for Arabic and English markets
-- 🔄 Executed **live database migrations** with zero data loss (Supabase)
-- ⚡ Consistently deliver **95+ Lighthouse scores** on production builds
-
----
-
-## AI-Assisted Development
-
-I've built a production AI coding standards system at YallaMotor — `CLAUDE.md`, `.cursorrules`, Copilot instructions, and a `docs/ai/` reference library — to unify standards across Claude Code, Cursor, and Copilot for a multi-developer team. I use AI tooling not just as autocomplete but as an architectural accelerator.
-
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**🏎️ YallaMotor SEO Architecture**
-Recovering organic traffic at scale via Next.js App Router, structured data, and internal linking — across 7 GCC countries.
-`Next.js` `TypeScript` `Core Web Vitals`
-
-</td>
-<td width="50%">
-
-**📊 Trading Edge SaaS**
-Personal trading journal with playbooks, tag system, R-multiple tracking, and analytics dashboard.
-`Next.js` `Supabase` `Zustand`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🛒 Salem Group Marketplace**
-Full B2B/B2C platform with Arabic/English support, cart, checkout, and admin panel.
-`Next.js` `Laravel` `Tailwind`
-
-</td>
-<td width="50%">
-
-**🏫 Manarat Al-Marefa**
-School management system with student records, scheduling, and full Supabase production migration.
-`Next.js` `Supabase` `TypeScript`
-
-</td>
-</tr>
-</table>
+**Languages & Design**
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
 ---
 
-## Stats
+### 🚀 Featured Work
+
+| Project | Role | Stack | Highlights |
+|---------|------|-------|------------|
+| **🏎️ YallaMotor** | Frontend Engineer | Next.js · TypeScript · Tailwind | App Router migration, Core Web Vitals recovery, SEO architecture across 7 GCC countries |
+| **🛒 Salem Group Marketplace** | Lead Dev + PM | Next.js · Laravel | B2B/B2C platform with Arabic/English support, ~$7K project |
+| **🏫 Manarat Al-Marefa** | Lead Dev | Next.js · Supabase | School management system + full production data migration |
+| **📊 Trading Edge** | Founder | Next.js · Supabase · Zustand | Personal trading journal SaaS — playbooks, R-multiple tracking, analytics |
+| **🔧 Al-Kasrawy Group** | Lead Dev | Next.js · Tailwind | Service center web app, end-to-end delivery |
+
+---
+
+### 🤖 AI-Assisted Development
+
+I've built a production AI coding standards system at YallaMotor — `CLAUDE.md`, `.cursorrules`, Copilot instructions, and a `docs/ai/` reference library — to unify standards across Claude Code, Cursor, and Copilot for a cross-functional team. I use AI tooling as an architectural accelerator, not just autocomplete.
+
+---
+
+### 🎓 Credentials & Leadership
+
+- 🏆 **Meta Frontend Developer Certified**
+- 🏆 **McKinsey Forward Program Graduate** (Top 10% globally)
+- 🎤 **Google Developer Groups Cairo Organizer** — 1,000+ developer community
+- 🌍 **Gaza Sky Geeks Code2Career Alum**
+- 📚 **Ain Shams University × University of East London** — Software Engineering (GPA 3.6, 2027)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XSaadiX&show_icons=true&count_private=true&title_color=f97316&text_color=e2e8f0&icon_color=f97316&bg_color=0f172a&hide_border=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XSaadiX&stroke=e2e8f0&background=0f172a&ring=f97316&fire=f97316&currStreakNum=e2e8f0&currStreakLabel=f97316&sideNums=e2e8f0&sideLabels=e2e8f0&dates=94a3b8&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=XSaadiX&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XSaadiX&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XSaadiX&langs_count=8&layout=compact&title_color=f97316&text_color=e2e8f0&icon_color=f97316&bg_color=0f172a&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XSaadiX&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XSaadiX&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph" alt="GitHub Activity Graph" width="100%">
 </p>
 
 ---
 
 <div align="center">
 
-**Open to:** Senior Frontend roles · Remote collaboration · European & GCC market opportunities
+💼 **Open to:** Senior frontend roles · Remote collaboration · European & GCC market opportunities
 
 *Building things that are fast, beautiful, and built to last.*
 
